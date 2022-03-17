@@ -1,0 +1,27 @@
+
+example project structure
+https://github.com/bast/somepackage
+
+
+
+examples of quadratic equation
+used for test values
+https://examples.yourdictionary.com/examples-of-quadratic-equation.html
+
+6x² + 11x - 35 = 0
+2x² - 4x - 2 = 0
+-4x² - 7x +12 = 0
+20x² -15x - 10 = 0
+x² -x - 3 = 0
+5x² - 2x - 9 = 0
+3x² + 4x + 2 = 0
+-x² +6x + 18 = 0
+
+(x + 2)(x - 3) = 0 [upon computing becomes x² -1x - 6 = 0]
+(x + 1)(x + 6) = 0 [upon computing becomes x² + 7x + 6 = 0]
+(x - 6)(x + 1) = 0 [upon computing becomes x² - 5x - 6 = 0
+-3(x - 4)(2x + 3) = 0 [upon computing becomes -6x² + 15x + 36 = 0]
+(x − 5)(x + 3) = 0 [upon computing becomes x² − 2x − 15 = 0]
+(x - 5)(x + 2) = 0 [upon computing becomes x² - 3x - 10 = 0]
+(x - 4)(x + 2) = 0 [upon computing becomes x² - 2x - 8 = 0]
+(2x+3)(3x - 2) = 0 [upon computing becomes 6x² + 5x - 6]
